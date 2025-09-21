@@ -1,0 +1,5 @@
+{
+  "name": "Ressist Crypto Signal AI",
+  "description": "An AI-powered dashboard that analyzes cryptocurrency market data, calculates technical indicators like RSI and MACD, and uses Gemini to generate trading signals and rationale.",
+  "requestFramePermissions": []
+}
